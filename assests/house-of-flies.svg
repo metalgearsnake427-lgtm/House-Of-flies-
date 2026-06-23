@@ -1,1 +1,9 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="House of Flies">
+  <rect width="64" height="64" fill="#0b0909"/>
+  <path d="M32 8 55 28v28H9V28Z" fill="#e6d6b8"/>
+  <path d="M16 27h32v29H16Z" fill="#171111"/>
+  <path d="M27 56V38h10v18M21 33h7v7h-7zm15 0h7v7h-7z" fill="#b91f2f"/>
+  <path d="M31 19c-7 0-11 5-11 10 0 5 5 8 12 8 7 0 12-3 12-8 0-5-5-10-13-10Z" fill="#171111"/>
+  <circle cx="28" cy="28" r="2" fill="#e6d6b8"/><circle cx="36" cy="28" r="2" fill="#e6d6b8"/>
+  <path d="M29 32h6" stroke="#e6d6b8" stroke-width="2"/>
+</svg>
